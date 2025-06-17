@@ -1,0 +1,3 @@
+A Universally Unique Identifier (UUID) is a 128-bit label used to uniquely identify objects in computer systems. The term Globally Unique Identifier (GUID) is also used, mostly in Microsoft systems.
+A Universally Unique Identifier (UUID) is a 128-bit label used to uniquely identify objects in computer systems. The term Globally Unique Identifier (GUID) is also used, mostly in Microsoft systems.
+A Universally Unique Identifier (UUID) is a 128-bit label used to uniquely identify objects in computer systems. The term Globally Unique Identifier (GUID) is also used, mostly in Microsoft systems.
