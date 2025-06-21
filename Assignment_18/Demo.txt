@@ -1,0 +1,1 @@
+Create new file as Demo.txt and copy contents of ABC.txt in Demo.txt

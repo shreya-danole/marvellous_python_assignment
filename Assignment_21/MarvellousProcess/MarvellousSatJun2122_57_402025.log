@@ -1,0 +1,548 @@
+--------------------------------------------------------------------------------
+		Marvellous Infosystems Process Log
+		Log file is created at : Sat Jun 21 22:57:40 2025
+--------------------------------------------------------------------------------{'name': 'System Idle Process', 'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM', 'vms': 0.05859375} 
+
+{'name': 'System', 'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM', 'vms': 0.1875} 
+
+{'name': '', 'pid': 72, 'username': None, 'vms': 0.16796875} 
+
+{'name': 'Registry', 'pid': 132, 'username': None, 'vms': 10.8671875} 
+
+{'name': 'LsaIso.exe', 'pid': 312, 'username': None, 'vms': 1.51953125} 
+
+{'name': 'lsass.exe', 'pid': 392, 'username': None, 'vms': 11.1484375} 
+
+{'name': 'smss.exe', 'pid': 536, 'username': None, 'vms': 1.0625} 
+
+{'name': 'dllhost.exe', 'pid': 668, 'username': 'SIT-LT-378\\10774', 'vms': 2.9375} 
+
+{'name': 'UserOOBEBroker.exe', 'pid': 684, 'username': 'SIT-LT-378\\10774', 'vms': 2.171875} 
+
+{'name': 'csrss.exe', 'pid': 848, 'username': None, 'vms': 2.484375} 
+
+{'name': 'wininit.exe', 'pid': 940, 'username': None, 'vms': 1.796875} 
+
+{'name': 'chrome.exe', 'pid': 964, 'username': 'SIT-LT-378\\10774', 'vms': 6.69921875} 
+
+{'name': 'services.exe', 'pid': 1012, 'username': None, 'vms': 8.12890625} 
+
+{'name': 'svchost.exe', 'pid': 1048, 'username': None, 'vms': 2.234375} 
+
+{'name': 'dllhost.exe', 'pid': 1056, 'username': None, 'vms': 3.33984375} 
+
+{'name': 'svchost.exe', 'pid': 1164, 'username': None, 'vms': 18.9921875} 
+
+{'name': 'fontdrvhost.exe', 'pid': 1184, 'username': None, 'vms': 1.90625} 
+
+{'name': 'WUDFHost.exe', 'pid': 1244, 'username': None, 'vms': 6.36328125} 
+
+{'name': 'svchost.exe', 'pid': 1304, 'username': None, 'vms': 1.33203125} 
+
+{'name': 'chrome.exe', 'pid': 1308, 'username': 'SIT-LT-378\\10774', 'vms': 216.4921875} 
+
+{'name': 'svchost.exe', 'pid': 1336, 'username': None, 'vms': 15.4375} 
+
+{'name': 'svchost.exe', 'pid': 1388, 'username': None, 'vms': 3.1171875} 
+
+{'name': 'svchost.exe', 'pid': 1484, 'username': None, 'vms': 3.05078125} 
+
+{'name': 'svchost.exe', 'pid': 1492, 'username': None, 'vms': 7.16796875} 
+
+{'name': 'svchost.exe', 'pid': 1536, 'username': None, 'vms': 1.32421875} 
+
+{'name': 'svchost.exe', 'pid': 1624, 'username': None, 'vms': 2.97265625} 
+
+{'name': 'WUDFHost.exe', 'pid': 1648, 'username': None, 'vms': 12.6328125} 
+
+{'name': 'svchost.exe', 'pid': 1656, 'username': None, 'vms': 2.80078125} 
+
+{'name': 'svchost.exe', 'pid': 1664, 'username': None, 'vms': 2.53515625} 
+
+{'name': 'svchost.exe', 'pid': 1684, 'username': None, 'vms': 17.9140625} 
+
+{'name': 'IntelCpHDCPSvc.exe', 'pid': 1824, 'username': None, 'vms': 1.35546875} 
+
+{'name': 'svchost.exe', 'pid': 1840, 'username': None, 'vms': 3.0} 
+
+{'name': 'svchost.exe', 'pid': 1868, 'username': None, 'vms': 2.83984375} 
+
+{'name': 'svchost.exe', 'pid': 1888, 'username': None, 'vms': 3.16796875} 
+
+{'name': 'svchost.exe', 'pid': 1952, 'username': None, 'vms': 1.73046875} 
+
+{'name': 'svchost.exe', 'pid': 1968, 'username': None, 'vms': 2.1328125} 
+
+{'name': 'unsecapp.exe', 'pid': 1988, 'username': None, 'vms': 4.48828125} 
+
+{'name': 'svchost.exe', 'pid': 2088, 'username': None, 'vms': 2.53515625} 
+
+{'name': 'svchost.exe', 'pid': 2148, 'username': None, 'vms': 2.12890625} 
+
+{'name': 'CompPkgSrv.exe', 'pid': 2248, 'username': 'SIT-LT-378\\10774', 'vms': 1.65625} 
+
+{'name': 'svchost.exe', 'pid': 2264, 'username': None, 'vms': 2.328125} 
+
+{'name': 'svchost.exe', 'pid': 2276, 'username': None, 'vms': 5.6640625} 
+
+{'name': 'svchost.exe', 'pid': 2304, 'username': None, 'vms': 6.6875} 
+
+{'name': 'csrss.exe', 'pid': 2344, 'username': None, 'vms': 2.875} 
+
+{'name': 'slack.exe', 'pid': 2428, 'username': 'SIT-LT-378\\10774', 'vms': 51.7578125} 
+
+{'name': 'igfxCUIServiceN.exe', 'pid': 2432, 'username': None, 'vms': 2.40234375} 
+
+{'name': 'svchost.exe', 'pid': 2440, 'username': None, 'vms': 3.390625} 
+
+{'name': 'svchost.exe', 'pid': 2484, 'username': None, 'vms': 1.9765625} 
+
+{'name': 'Code.exe', 'pid': 2608, 'username': 'SIT-LT-378\\10774', 'vms': 255.8828125} 
+
+{'name': 'svchost.exe', 'pid': 2624, 'username': None, 'vms': 3.34375} 
+
+{'name': 'wsc_proxy.exe', 'pid': 2632, 'username': None, 'vms': 3.19921875} 
+
+{'name': 'svchost.exe', 'pid': 2648, 'username': None, 'vms': 6.609375} 
+
+{'name': 'svchost.exe', 'pid': 2672, 'username': None, 'vms': 4.078125} 
+
+{'name': 'svchost.exe', 'pid': 2680, 'username': None, 'vms': 1.4140625} 
+
+{'name': 'svchost.exe', 'pid': 2692, 'username': None, 'vms': 15.9453125} 
+
+{'name': 'svchost.exe', 'pid': 2704, 'username': None, 'vms': 4.98828125} 
+
+{'name': 'svchost.exe', 'pid': 2748, 'username': None, 'vms': 3.625} 
+
+{'name': 'svchost.exe', 'pid': 2772, 'username': None, 'vms': 4.4140625} 
+
+{'name': 'ctfmon.exe', 'pid': 2792, 'username': 'SIT-LT-378\\10774', 'vms': 4.34375} 
+
+{'name': 'msedgewebview2.exe', 'pid': 2856, 'username': 'SIT-LT-378\\10774', 'vms': 75.48046875} 
+
+{'name': 'unsecapp.exe', 'pid': 2944, 'username': 'SIT-LT-378\\10774', 'vms': 1.55859375} 
+
+{'name': 'svchost.exe', 'pid': 2972, 'username': None, 'vms': 1.62890625} 
+
+{'name': 'MemCompression', 'pid': 2988, 'username': None, 'vms': 2.4609375} 
+
+{'name': 'svchost.exe', 'pid': 3184, 'username': None, 'vms': 4.0} 
+
+{'name': 'svchost.exe', 'pid': 3216, 'username': None, 'vms': 2.37109375} 
+
+{'name': 'svchost.exe', 'pid': 3232, 'username': None, 'vms': 2.1015625} 
+
+{'name': 'svchost.exe', 'pid': 3340, 'username': None, 'vms': 1.5625} 
+
+{'name': 'svchost.exe', 'pid': 3400, 'username': None, 'vms': 1.8359375} 
+
+{'name': 'svchost.exe', 'pid': 3464, 'username': None, 'vms': 12.4921875} 
+
+{'name': 'DDVCollectorSvcApi.exe', 'pid': 3544, 'username': None, 'vms': 2.02734375} 
+
+{'name': 'aswToolsSvc.exe', 'pid': 3588, 'username': None, 'vms': 93.87890625} 
+
+{'name': 'svchost.exe', 'pid': 3600, 'username': None, 'vms': 1.9921875} 
+
+{'name': 'chrome.exe', 'pid': 3660, 'username': 'SIT-LT-378\\10774', 'vms': 244.58203125} 
+
+{'name': 'svchost.exe', 'pid': 3672, 'username': None, 'vms': 4.59765625} 
+
+{'name': 'svchost.exe', 'pid': 3764, 'username': None, 'vms': 2.8046875} 
+
+{'name': 'svchost.exe', 'pid': 3804, 'username': None, 'vms': 7.26171875} 
+
+{'name': 'OneDrive.exe', 'pid': 3812, 'username': 'SIT-LT-378\\10774', 'vms': 73.6796875} 
+
+{'name': 'svchost.exe', 'pid': 3884, 'username': None, 'vms': 3.0859375} 
+
+{'name': 'svchost.exe', 'pid': 3896, 'username': None, 'vms': 4.9140625} 
+
+{'name': 'SecurityHealthSystray.exe', 'pid': 3944, 'username': 'SIT-LT-378\\10774', 'vms': 1.66015625} 
+
+{'name': 'Code.exe', 'pid': 3992, 'username': 'SIT-LT-378\\10774', 'vms': 128.76171875} 
+
+{'name': 'AvastSvc.exe', 'pid': 4008, 'username': None, 'vms': 75.296875} 
+
+{'name': 'svchost.exe', 'pid': 4120, 'username': None, 'vms': 1.671875} 
+
+{'name': 'igfxEMN.exe', 'pid': 4152, 'username': 'SIT-LT-378\\10774', 'vms': 3.7421875} 
+
+{'name': 'spoolsv.exe', 'pid': 4172, 'username': None, 'vms': 5.92578125} 
+
+{'name': 'svchost.exe', 'pid': 4276, 'username': None, 'vms': 1.96875} 
+
+{'name': 'AnyDesk.exe', 'pid': 4328, 'username': None, 'vms': 30.26171875} 
+
+{'name': 'Dell.TechHub.exe', 'pid': 4336, 'username': None, 'vms': 28.9765625} 
+
+{'name': 'svchost.exe', 'pid': 4344, 'username': None, 'vms': 27.79296875} 
+
+{'name': 'svchost.exe', 'pid': 4364, 'username': None, 'vms': 2.1171875} 
+
+{'name': 'avp.exe', 'pid': 4372, 'username': None, 'vms': 447.58203125} 
+
+{'name': 'svchost.exe', 'pid': 4380, 'username': None, 'vms': 44.0390625} 
+
+{'name': 'esif_uf.exe', 'pid': 4424, 'username': None, 'vms': 2.15625} 
+
+{'name': 'svchost.exe', 'pid': 4432, 'username': None, 'vms': 2.89453125} 
+
+{'name': 'IntelAudioService.exe', 'pid': 4440, 'username': None, 'vms': 37.16796875} 
+
+{'name': 'OneApp.IGCC.WinService.exe', 'pid': 4488, 'username': None, 'vms': 31.99609375} 
+
+{'name': 'svchost.exe', 'pid': 4500, 'username': None, 'vms': 17.19140625} 
+
+{'name': 'mosquitto.exe', 'pid': 4560, 'username': None, 'vms': 1.4453125} 
+
+{'name': 'svchost.exe', 'pid': 4600, 'username': None, 'vms': 2.40625} 
+
+{'name': 'jhi_service.exe', 'pid': 4616, 'username': None, 'vms': 1.26953125} 
+
+{'name': 'mysqld.exe', 'pid': 4688, 'username': None, 'vms': 32.6640625} 
+
+{'name': 'pg_ctl.exe', 'pid': 4696, 'username': None, 'vms': 1.33203125} 
+
+{'name': 'svchost.exe', 'pid': 4708, 'username': None, 'vms': 1.6015625} 
+
+{'name': 'RtkAudUService64.exe', 'pid': 4732, 'username': None, 'vms': 4.7734375} 
+
+{'name': 'svchost.exe', 'pid': 4744, 'username': None, 'vms': 2.5859375} 
+
+{'name': 'sqlwriter.exe', 'pid': 4776, 'username': None, 'vms': 2.0546875} 
+
+{'name': 'WavesAudioService.exe', 'pid': 4884, 'username': None, 'vms': 12.8203125} 
+
+{'name': 'svchost.exe', 'pid': 4892, 'username': None, 'vms': 1.45703125} 
+
+{'name': 'WavesSysSvc64.exe', 'pid': 4904, 'username': None, 'vms': 44.984375} 
+
+{'name': 'svchost.exe', 'pid': 4912, 'username': None, 'vms': 5.46484375} 
+
+{'name': 'TeamViewer_Service.exe', 'pid': 4924, 'username': None, 'vms': 17.453125} 
+
+{'name': 'WMIRegistrationService.exe', 'pid': 4932, 'username': None, 'vms': 2.7109375} 
+
+{'name': 'wslservice.exe', 'pid': 4940, 'username': None, 'vms': 6.375} 
+
+{'name': 'TbtP2pShortcutService.exe', 'pid': 4948, 'username': None, 'vms': 1.359375} 
+
+{'name': 'dasHost.exe', 'pid': 4972, 'username': None, 'vms': 4.2890625} 
+
+{'name': 'svchost.exe', 'pid': 5144, 'username': None, 'vms': 1.69140625} 
+
+{'name': 'Code.exe', 'pid': 5316, 'username': 'SIT-LT-378\\10774', 'vms': 323.85546875} 
+
+{'name': 'mysqld.exe', 'pid': 5604, 'username': None, 'vms': 586.1015625} 
+
+{'name': 'chrome.exe', 'pid': 5640, 'username': 'SIT-LT-378\\10774', 'vms': 13.15234375} 
+
+{'name': 'svchost.exe', 'pid': 5728, 'username': None, 'vms': 3.67578125} 
+
+{'name': 'conhost.exe', 'pid': 5772, 'username': None, 'vms': 6.41015625} 
+
+{'name': 'aswEngSrv.exe', 'pid': 6056, 'username': None, 'vms': 27.7109375} 
+
+{'name': 'dptf_helper.exe', 'pid': 6068, 'username': 'SIT-LT-378\\10774', 'vms': 1.57421875} 
+
+{'name': 'Code.exe', 'pid': 6196, 'username': 'SIT-LT-378\\10774', 'vms': 590.88671875} 
+
+{'name': 'fontdrvhost.exe', 'pid': 6240, 'username': None, 'vms': 6.83984375} 
+
+{'name': 'DDVDataCollector.exe', 'pid': 6252, 'username': None, 'vms': 55.3515625} 
+
+{'name': 'AvastUI.exe', 'pid': 6408, 'username': 'SIT-LT-378\\10774', 'vms': 37.25390625} 
+
+{'name': 'WmiPrvSE.exe', 'pid': 6456, 'username': None, 'vms': 23.9375} 
+
+{'name': 'postgres.exe', 'pid': 6708, 'username': None, 'vms': 2.640625} 
+
+{'name': 'RuntimeBroker.exe', 'pid': 6732, 'username': 'SIT-LT-378\\10774', 'vms': 5.8125} 
+
+{'name': 'chrome.exe', 'pid': 6756, 'username': 'SIT-LT-378\\10774', 'vms': 191.0234375} 
+
+{'name': 'conhost.exe', 'pid': 6772, 'username': None, 'vms': 6.44140625} 
+
+{'name': 'msedgewebview2.exe', 'pid': 6888, 'username': 'SIT-LT-378\\10774', 'vms': 10.40625} 
+
+{'name': 'svchost.exe', 'pid': 7032, 'username': None, 'vms': 2.01171875} 
+
+{'name': 'Code.exe', 'pid': 7152, 'username': 'SIT-LT-378\\10774', 'vms': 666.21484375} 
+
+{'name': 'ApplicationFrameHost.exe', 'pid': 7160, 'username': 'SIT-LT-378\\10774', 'vms': 18.6484375} 
+
+{'name': 'postgres.exe', 'pid': 7188, 'username': None, 'vms': 2.15625} 
+
+{'name': 'svchost.exe', 'pid': 7208, 'username': None, 'vms': 3.7109375} 
+
+{'name': 'postgres.exe', 'pid': 7316, 'username': None, 'vms': 2.5078125} 
+
+{'name': 'postgres.exe', 'pid': 7324, 'username': None, 'vms': 2.484375} 
+
+{'name': 'postgres.exe', 'pid': 7332, 'username': None, 'vms': 2.45703125} 
+
+{'name': 'postgres.exe', 'pid': 7340, 'username': None, 'vms': 3.0859375} 
+
+{'name': 'postgres.exe', 'pid': 7348, 'username': None, 'vms': 2.26171875} 
+
+{'name': 'postgres.exe', 'pid': 7356, 'username': None, 'vms': 3.02734375} 
+
+{'name': 'svchost.exe', 'pid': 7372, 'username': None, 'vms': 6.34375} 
+
+{'name': 'svchost.exe', 'pid': 7412, 'username': None, 'vms': 1.97265625} 
+
+{'name': 'AvastUI.exe', 'pid': 7440, 'username': 'SIT-LT-378\\10774', 'vms': 16.38671875} 
+
+{'name': 'SearchIndexer.exe', 'pid': 7748, 'username': None, 'vms': 38.0703125} 
+
+{'name': 'svchost.exe', 'pid': 8052, 'username': None, 'vms': 3.6640625} 
+
+{'name': 'dasHost.exe', 'pid': 8216, 'username': None, 'vms': 0.9765625} 
+
+{'name': 'Code.exe', 'pid': 8268, 'username': 'SIT-LT-378\\10774', 'vms': 90.92578125} 
+
+{'name': 'dllhost.exe', 'pid': 8300, 'username': 'SIT-LT-378\\10774', 'vms': 3.47265625} 
+
+{'name': 'Dell.CoreServices.Client.exe', 'pid': 8892, 'username': None, 'vms': 78.22265625} 
+
+{'name': 'Dell.TechHub.Diagnostics.SubAgent.exe', 'pid': 8936, 'username': None, 'vms': 42.02734375} 
+
+{'name': 'msedgewebview2.exe', 'pid': 8944, 'username': 'SIT-LT-378\\10774', 'vms': 12.58203125} 
+
+{'name': 'conhost.exe', 'pid': 8952, 'username': None, 'vms': 6.546875} 
+
+{'name': 'Dell.TechHub.Analytics.SubAgent.exe', 'pid': 9012, 'username': None, 'vms': 66.09375} 
+
+{'name': 'Dell.Update.SubAgent.exe', 'pid': 9020, 'username': None, 'vms': 61.34765625} 
+
+{'name': 'conhost.exe', 'pid': 9028, 'username': None, 'vms': 6.5859375} 
+
+{'name': 'conhost.exe', 'pid': 9040, 'username': None, 'vms': 6.5703125} 
+
+{'name': 'Dell.TechHub.DataManager.SubAgent.exe', 'pid': 9124, 'username': None, 'vms': 62.01953125} 
+
+{'name': 'Dell.TechHub.Instrumentation.SubAgent.exe', 'pid': 9132, 'username': None, 'vms': 106.09375} 
+
+{'name': 'conhost.exe', 'pid': 9140, 'username': None, 'vms': 6.546875} 
+
+{'name': 'conhost.exe', 'pid': 9148, 'username': None, 'vms': 6.5703125} 
+
+{'name': 'msedge.exe', 'pid': 9308, 'username': 'SIT-LT-378\\10774', 'vms': 59.44921875} 
+
+{'name': 'AggregatorHost.exe', 'pid': 9468, 'username': None, 'vms': 3.41796875} 
+
+{'name': 'svchost.exe', 'pid': 9808, 'username': None, 'vms': 4.2578125} 
+
+{'name': 'Dell.TechHub.Instrumentation.UserProcess.exe', 'pid': 9820, 'username': None, 'vms': 31.51171875} 
+
+{'name': 'klcsldcl.exe', 'pid': 9864, 'username': None, 'vms': 11.640625} 
+
+{'name': 'python.exe', 'pid': 9960, 'username': 'SIT-LT-378\\10774', 'vms': 10.8046875} 
+
+{'name': 'svchost.exe', 'pid': 9972, 'username': None, 'vms': 3.05078125} 
+
+{'name': 'svchost.exe', 'pid': 9984, 'username': None, 'vms': 1.87890625} 
+
+{'name': 'svchost.exe', 'pid': 10192, 'username': None, 'vms': 5.55078125} 
+
+{'name': 'svchost.exe', 'pid': 10272, 'username': None, 'vms': 2.609375} 
+
+{'name': 'svchost.exe', 'pid': 10344, 'username': None, 'vms': 3.17578125} 
+
+{'name': 'Microsoft.Media.Player.exe', 'pid': 10356, 'username': 'SIT-LT-378\\10774', 'vms': 35.6640625} 
+
+{'name': 'conhost.exe', 'pid': 10484, 'username': None, 'vms': 6.10546875} 
+
+{'name': 'Code.exe', 'pid': 10628, 'username': 'SIT-LT-378\\10774', 'vms': 199.73828125} 
+
+{'name': 'WmiPrvSE.exe', 'pid': 10660, 'username': None, 'vms': 16.01953125} 
+
+{'name': 'WmiPrvSE.exe', 'pid': 10992, 'username': None, 'vms': 4.734375} 
+
+{'name': 'powershell.exe', 'pid': 11144, 'username': 'SIT-LT-378\\10774', 'vms': 84.3984375} 
+
+{'name': 'conhost.exe', 'pid': 11532, 'username': 'SIT-LT-378\\10774', 'vms': 1.35546875} 
+
+{'name': 'chrome.exe', 'pid': 11700, 'username': 'SIT-LT-378\\10774', 'vms': 105.5859375} 
+
+{'name': 'SearchApp.exe', 'pid': 12000, 'username': 'SIT-LT-378\\10774', 'vms': 198.64453125} 
+
+{'name': 'slack.exe', 'pid': 12056, 'username': 'SIT-LT-378\\10774', 'vms': 81.484375} 
+
+{'name': 'msedge.exe', 'pid': 12060, 'username': 'SIT-LT-378\\10774', 'vms': 2.1953125} 
+
+{'name': 'msedge.exe', 'pid': 12248, 'username': 'SIT-LT-378\\10774', 'vms': 11.8125} 
+
+{'name': 'StartMenuExperienceHost.exe', 'pid': 12272, 'username': 'SIT-LT-378\\10774', 'vms': 24.78125} 
+
+{'name': 'SupportAssistAgent.exe', 'pid': 12772, 'username': None, 'vms': 411.83984375} 
+
+{'name': 'AvastUI.exe', 'pid': 13172, 'username': 'SIT-LT-378\\10774', 'vms': 15.12109375} 
+
+{'name': 'SearchApp.exe', 'pid': 13236, 'username': 'SIT-LT-378\\10774', 'vms': 41.2734375} 
+
+{'name': 'svchost.exe', 'pid': 13244, 'username': None, 'vms': 9.28515625} 
+
+{'name': 'svchost.exe', 'pid': 13272, 'username': None, 'vms': 2.8515625} 
+
+{'name': 'chrome.exe', 'pid': 13396, 'username': 'SIT-LT-378\\10774', 'vms': 152.59375} 
+
+{'name': 'slack.exe', 'pid': 14040, 'username': 'SIT-LT-378\\10774', 'vms': 11.171875} 
+
+{'name': 'SecurityHealthService.exe', 'pid': 14072, 'username': None, 'vms': 7.69140625} 
+
+{'name': 'svchost.exe', 'pid': 14080, 'username': None, 'vms': 6.03125} 
+
+{'name': 'RtkAudUService64.exe', 'pid': 14256, 'username': None, 'vms': 2.41015625} 
+
+{'name': 'svchost.exe', 'pid': 14376, 'username': None, 'vms': 11.6953125} 
+
+{'name': 'Code.exe', 'pid': 14500, 'username': 'SIT-LT-378\\10774', 'vms': 14.625} 
+
+{'name': 'DDVRulesProcessor.exe', 'pid': 14656, 'username': None, 'vms': 16.8203125} 
+
+{'name': 'RuntimeBroker.exe', 'pid': 14752, 'username': 'SIT-LT-378\\10774', 'vms': 7.8125} 
+
+{'name': 'PhoneExperienceHost.exe', 'pid': 14796, 'username': 'SIT-LT-378\\10774', 'vms': 69.85546875} 
+
+{'name': 'avpsus.exe', 'pid': 15020, 'username': None, 'vms': 59.6328125} 
+
+{'name': 'RuntimeBroker.exe', 'pid': 15044, 'username': 'SIT-LT-378\\10774', 'vms': 7.2265625} 
+
+{'name': 'chrome.exe', 'pid': 15324, 'username': 'SIT-LT-378\\10774', 'vms': 24.9921875} 
+
+{'name': 'slack.exe', 'pid': 15352, 'username': 'SIT-LT-378\\10774', 'vms': 15.18359375} 
+
+{'name': 'slack.exe', 'pid': 15468, 'username': 'SIT-LT-378\\10774', 'vms': 10.609375} 
+
+{'name': 'Code.exe', 'pid': 15516, 'username': 'SIT-LT-378\\10774', 'vms': 623.3515625} 
+
+{'name': 'svchost.exe', 'pid': 15648, 'username': None, 'vms': 2.07421875} 
+
+{'name': 'winlogon.exe', 'pid': 15672, 'username': None, 'vms': 2.7421875} 
+
+{'name': 'msedge.exe', 'pid': 15916, 'username': 'SIT-LT-378\\10774', 'vms': 8.15625} 
+
+{'name': 'vmcompute.exe', 'pid': 16028, 'username': None, 'vms': 2.55078125} 
+
+{'name': 'WavesSvc64.exe', 'pid': 16064, 'username': 'SIT-LT-378\\10774', 'vms': 71.33984375} 
+
+{'name': 'RuntimeBroker.exe', 'pid': 16148, 'username': 'SIT-LT-378\\10774', 'vms': 12.390625} 
+
+{'name': 'FileCoAuth.exe', 'pid': 16176, 'username': 'SIT-LT-378\\10774', 'vms': 6.46484375} 
+
+{'name': 'msedgewebview2.exe', 'pid': 16212, 'username': 'SIT-LT-378\\10774', 'vms': 67.4296875} 
+
+{'name': 'Code.exe', 'pid': 16492, 'username': 'SIT-LT-378\\10774', 'vms': 86.6875} 
+
+{'name': 'svchost.exe', 'pid': 16868, 'username': None, 'vms': 2.17578125} 
+
+{'name': 'chrome.exe', 'pid': 17424, 'username': 'SIT-LT-378\\10774', 'vms': 61.71875} 
+
+{'name': 'dwm.exe', 'pid': 17644, 'username': None, 'vms': 85.046875} 
+
+{'name': 'AvastUI.exe', 'pid': 17884, 'username': 'SIT-LT-378\\10774', 'vms': 21.7734375} 
+
+{'name': 'wlanext.exe', 'pid': 18044, 'username': None, 'vms': 1.515625} 
+
+{'name': 'avpui.exe', 'pid': 18204, 'username': 'SIT-LT-378\\10774', 'vms': 10.0390625} 
+
+{'name': 'RtkAudUService64.exe', 'pid': 18208, 'username': 'SIT-LT-378\\10774', 'vms': 3.9296875} 
+
+{'name': 'svchost.exe', 'pid': 18400, 'username': 'SIT-LT-378\\10774', 'vms': 1.828125} 
+
+{'name': 'conhost.exe', 'pid': 18548, 'username': 'SIT-LT-378\\10774', 'vms': 1.328125} 
+
+{'name': 'PushNotificationsLongRunningTask.exe', 'pid': 18616, 'username': 'SIT-LT-378\\10774', 'vms': 1.8984375} 
+
+{'name': 'Code.exe', 'pid': 18792, 'username': 'SIT-LT-378\\10774', 'vms': 402.25390625} 
+
+{'name': 'msedge.exe', 'pid': 19052, 'username': 'SIT-LT-378\\10774', 'vms': 43.98828125} 
+
+{'name': 'svchost.exe', 'pid': 19348, 'username': None, 'vms': 6.23046875} 
+
+{'name': 'Code.exe', 'pid': 19612, 'username': 'SIT-LT-378\\10774', 'vms': 33.47265625} 
+
+{'name': 'RuntimeBroker.exe', 'pid': 20004, 'username': 'SIT-LT-378\\10774', 'vms': 5.27734375} 
+
+{'name': 'WhatsApp.exe', 'pid': 20648, 'username': 'SIT-LT-378\\10774', 'vms': 65.98828125} 
+
+{'name': 'vapm.exe', 'pid': 20924, 'username': None, 'vms': 32.81640625} 
+
+{'name': 'klnagent.exe', 'pid': 21056, 'username': None, 'vms': 54.55859375} 
+
+{'name': 'Code.exe', 'pid': 21384, 'username': 'SIT-LT-378\\10774', 'vms': 33.42578125} 
+
+{'name': 'svchost.exe', 'pid': 21460, 'username': None, 'vms': 1.30859375} 
+
+{'name': 'explorer.exe', 'pid': 21576, 'username': 'SIT-LT-378\\10774', 'vms': 224.17578125} 
+
+{'name': 'svchost.exe', 'pid': 21764, 'username': 'SIT-LT-378\\10774', 'vms': 8.484375} 
+
+{'name': 'svchost.exe', 'pid': 21952, 'username': None, 'vms': 3.1875} 
+
+{'name': 'msedgewebview2.exe', 'pid': 22100, 'username': 'SIT-LT-378\\10774', 'vms': 2.3125} 
+
+{'name': 'ServiceShell.exe', 'pid': 22184, 'username': None, 'vms': 154.30859375} 
+
+{'name': 'chrome.exe', 'pid': 22284, 'username': 'SIT-LT-378\\10774', 'vms': 31.45703125} 
+
+{'name': 'wpscenter.exe', 'pid': 22680, 'username': 'SIT-LT-378\\10774', 'vms': 13.96484375} 
+
+{'name': 'svchost.exe', 'pid': 22748, 'username': None, 'vms': 1.73046875} 
+
+{'name': 'svchost.exe', 'pid': 22796, 'username': 'SIT-LT-378\\10774', 'vms': 8.546875} 
+
+{'name': 'svchost.exe', 'pid': 22856, 'username': None, 'vms': 3.171875} 
+
+{'name': 'powershell.exe', 'pid': 22904, 'username': 'SIT-LT-378\\10774', 'vms': 84.6875} 
+
+{'name': 'Code.exe', 'pid': 22932, 'username': 'SIT-LT-378\\10774', 'vms': 124.421875} 
+
+{'name': 'wpscloudsvr.exe', 'pid': 22944, 'username': 'SIT-LT-378\\10774', 'vms': 63.15234375} 
+
+{'name': 'taskhostw.exe', 'pid': 23236, 'username': 'SIT-LT-378\\10774', 'vms': 8.3125} 
+
+{'name': 'powershell.exe', 'pid': 23408, 'username': 'SIT-LT-378\\10774', 'vms': 85.453125} 
+
+{'name': 'Code.exe', 'pid': 23428, 'username': 'SIT-LT-378\\10774', 'vms': 10.54296875} 
+
+{'name': 'Code.exe', 'pid': 23480, 'username': 'SIT-LT-378\\10774', 'vms': 162.67578125} 
+
+{'name': 'RuntimeBroker.exe', 'pid': 23612, 'username': 'SIT-LT-378\\10774', 'vms': 4.5} 
+
+{'name': 'ShellExperienceHost.exe', 'pid': 23616, 'username': 'SIT-LT-378\\10774', 'vms': 41.640625} 
+
+{'name': 'msedgewebview2.exe', 'pid': 23660, 'username': 'SIT-LT-378\\10774', 'vms': 36.24609375} 
+
+{'name': 'SystemSettings.exe', 'pid': 23724, 'username': 'SIT-LT-378\\10774', 'vms': 49.40625} 
+
+{'name': 'sihost.exe', 'pid': 23860, 'username': 'SIT-LT-378\\10774', 'vms': 7.46875} 
+
+{'name': 'chrome.exe', 'pid': 23888, 'username': 'SIT-LT-378\\10774', 'vms': 9.08203125} 
+
+{'name': 'chrome.exe', 'pid': 24024, 'username': 'SIT-LT-378\\10774', 'vms': 12.0859375} 
+
+{'name': 'svchost.exe', 'pid': 24116, 'username': 'SIT-LT-378\\10774', 'vms': 8.68359375} 
+
+{'name': 'slack.exe', 'pid': 24160, 'username': 'SIT-LT-378\\10774', 'vms': 98.07421875} 
+
+{'name': 'slack.exe', 'pid': 24316, 'username': 'SIT-LT-378\\10774', 'vms': 316.62890625} 
+
+{'name': 'svchost.exe', 'pid': 24340, 'username': 'SIT-LT-378\\10774', 'vms': 7.4453125} 
+
+{'name': 'svchost.exe', 'pid': 24624, 'username': None, 'vms': 3.66015625} 
+
+{'name': 'conhost.exe', 'pid': 24796, 'username': 'SIT-LT-378\\10774', 'vms': 1.3359375} 
+
+{'name': 'svchost.exe', 'pid': 24864, 'username': None, 'vms': 4.34375} 
+
+{'name': 'TextInputHost.exe', 'pid': 25176, 'username': 'SIT-LT-378\\10774', 'vms': 35.46484375} 
+
+{'name': 'chrome.exe', 'pid': 25284, 'username': 'SIT-LT-378\\10774', 'vms': 27.76171875} 
+
+{'name': 'AnyDesk.exe', 'pid': 25512, 'username': 'SIT-LT-378\\10774', 'vms': 29.6796875} 
+
+--------------------------------------------------------------------------------
